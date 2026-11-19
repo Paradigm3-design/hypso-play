@@ -1,0 +1,1 @@
+Hypso Play Store bundle. Download the release file hypso-1.0.7.aab and upload it in Play Console.
